@@ -1,0 +1,11 @@
+dependencies {
+	compile project(":modules:annualExam:annualExam-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
+
+buildService {
+	apiDir = "../annualExam-api/src/main/java"
+}
+
+group = "com.liferay.training.annualForm"

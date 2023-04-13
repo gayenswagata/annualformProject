@@ -1,0 +1,19 @@
+!SESSION 2023-04-05 10:02:03.526 -----------------------------------------------
+eclipse.buildId=3.9.8.202212271250-ga9
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.egit.core 1 0 2023-04-05 10:02:20.571
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2023-04-05 10:02:21.646
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.ui 4 4 2023-04-05 10:02:21.713
+!MESSAGE Referenced part does not exist yet: fast.
+
+!ENTRY org.eclipse.rse.core 1 0 2023-04-05 10:02:37.318
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.

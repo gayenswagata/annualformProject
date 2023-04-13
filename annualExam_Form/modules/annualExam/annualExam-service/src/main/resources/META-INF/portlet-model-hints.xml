@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.liferay.training.annualForm.model.Annualform">
+		<field name="annualformId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="userId" type="long" />
+		<field name="firstName" type="String" />
+		<field name="lastName" type="String" />
+		<field name="about" type="String" />
+		<field name="gender" type="String" />
+		<field name="country" type="String" />
+	</model>
+</model-hints>

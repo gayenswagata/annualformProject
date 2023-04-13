@@ -1,0 +1,10 @@
+Bundle-Name: annualExam-api
+Bundle-SymbolicName: com.liferay.training.annualForm.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.training.annualForm.exception,\
+	com.liferay.training.annualForm.model,\
+	com.liferay.training.annualForm.service,\
+	com.liferay.training.annualForm.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../annualExam-service/service.xml
